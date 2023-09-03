@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: #ff00ff;
+}
+
+.logo, .menu-list-item {
+  background-color: #fbb3ff;
+  height: 70px;
+}
+
+.menu-list {
+  list-style: none;
+  margin: 0;
+}
+
+.sidebar {
+  background-color: #d8ffb6;
+}
+
+.main-content {
+  background-color: #00b522;
+}
+
+.main-item {
+  background-color: #fff75a;
+  height: 130px;
+}
+
+
+
+.footer {
+  background-color: #52a1ff;
+}
+
+.footer-item {
+  background-color: #b6e7ff;
+  height: 40px;
+  margin: 20px;
+}
